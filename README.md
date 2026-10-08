@@ -56,3 +56,19 @@ Alternatively, install the required Python packages using:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Data availability
+
+All input datasets, except for the ground-based PM2.5 observations, are publicly available from the data providers listed in Table 1 of the manuscript. Download links and information on data sources are provided below.
+
+| Dataset | Source/Provider | Link |
+|---|---|---|
+| Reanalysis AOD | NASA MERRA-2 | [Link](https://disc.gsfc.nasa.gov/datasets/M2I3NXGAS_5.12.4/summary) |
+| Built-up area ratio | European Commission, Joint Research Centre (JRC) | [Link](https://human-settlement.emergency.copernicus.eu/download.php?ds=bu) |
+| Forest cover ratio | Global Land Analysis & Discovery | [Link](https://glad.umd.edu/dataset/global-2010-tree-cover-30-m) |
+| Rice-harvested area | International Food Policy Research Institute | [Link](https://doi.org/10.7910/DVN/PRFF8V) |
+| Population data | WorldPop, University of Southampton | [Link](https://hub.worldpop.org/doi/10.5258/SOTON/WP00675) |
+| Elevation data | NASA SRTM v4 / CGIAR-CSI | [Link](https://srtm.csi.cgiar.org/) |
+| Road network | OpenStreetMap | [Link](https://planet.openstreetmap.org/planet/full-history/) |
+
+The ground-based PM2.5 observations are not publicly distributed. They can be requested from [the Pollution Control Department](https://air4thai.pcd.go.th) and [the Bangkok Metropolitan Administration](https://official.airbkk.com/bma_register/).
