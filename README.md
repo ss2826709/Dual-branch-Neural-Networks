@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## Data availability
 
-All input datasets, except for the ground-based PM2.5 observations, are publicly available from the data providers listed in Table 1 of the manuscript. Download links and information on data sources are provided below.
+Data access links and information on data sources are provided below.
 
 | Dataset | Source/Provider | Link |
 |---|---|---|
